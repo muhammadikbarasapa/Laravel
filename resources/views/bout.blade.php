@@ -44,7 +44,7 @@
                     
                     <div id="responsive">
                       <div class="gallery">
-                          <img src="../assets/img/Untitled-12.jpg">
+                          <img src="../assets/img/prestasi wk.jpg">
                         </a>
                         <p>Beasiswa Prestasi
                             Beasiswa yang diperuntukkan kepada siswa yang berprestasi di Sekolah baik itu prestasi akademik maupun non akademik.</p>
