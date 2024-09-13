@@ -23,7 +23,7 @@
                 <p><a href="https://www.halodoc.com/artikel/manfaat-olahraga-bulu-tangkis-untuk-kesehatan-tubuh" class="tbl-biru ">pelajari lebih lanjut</a></p>
             </div>
             <aside>
-                <img src="../assets/img/invectus.jpg" width="500px">
+                <img src="../assets/img/2024.jpg" width="500px">
                 <article>
                   <strong>Badminton</strong> adalah permainan dengan memakai raket dan kok yang dipukul melampau jaring yang direntangkan di tengah lapangan. Dalam praktiknya, bulu tangkis atau badminton dimainkan dengan menggunakan raket, suttlecock, net, dan lapangan bulu tangkis.
                 </article>
