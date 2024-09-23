@@ -17,10 +17,17 @@ nav{
     font-size: 20px;
     width: 1100px;
     margin: auto;
-    border-radius: 50px;
     position: relative;
-    color:rgb(175, 2, 2)  ;
+    color:rgb(235, 33, 33)  ;
 }
+
+/* .logo a {
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    font-family: courier;
+    color:#021c39;
+} */
 
 .menu {
     float: right;
@@ -41,6 +48,7 @@ nav {
     position: -webkit-sticky;
     top: 0%;
     background:rgb(109, 121, 121);
+    border-radius: 25px;
     z-index: 100;
 }
 
@@ -191,16 +199,12 @@ p {
     margin: 0 auto;
 }
 
-.kartu-partner img {
-    width: 150px;
-    border: 100%;
-    border-radius: 30px;
-    border: 1px solid #ccc;
-    width: 200px;
-    margin-right: 40px;
+.kartu-tutors img, .kartu-partner img {
+    width: 100%; /* Sesuaikan dengan lebar kartu */
+    height: 250px; /* Atur tinggi gambar sesuai kebutuhan */
+    border-radius: 25px;
     box-shadow: 4px 4px gray;
-    border-radius: 30px;
-    padding: 40;
+    margin: 5px; /* Jarak di atas dan bawah gambar diubah menjadi 5px */
 }
 
 #contact {
@@ -244,7 +248,6 @@ h3 {
 img{
     width: 450px;
     height: 350px;
-    border-radius: 10px;
 }
 html{
     scroll-behavior:smooth;

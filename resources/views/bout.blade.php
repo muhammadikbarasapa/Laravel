@@ -6,11 +6,11 @@
                 <div class="kolom">
                     <div class="deskripsi">our top patners</div>
                     <h2>PRESTASI</h2>
-                    <p>prestasi</p>
+                    <p>juara 1 member antar member <br>juara 3 veto Asnur open kelas B <br>juara 1 pandawa open VI kelas C <br>juara 1 pandawa semiopen kelas C</p>
                 </div>
                 <div class="partner-list">
                     <div class="kartu-partner">
-                        <img src="../assets/img/badminton.jpg"/>
+                        <img src="../assets/img/king.jpg"/>
                     </div>
                     <div class="kartu-partner">
                         <img src="../assets/img/ibar.jpg"/>
@@ -19,10 +19,7 @@
                         <img src="../assets/img/ibar2.jpg"/>
                     </div>
                     <div class="kartu-partner">
-                        <img src="../assets/img/ibar3.jpg">
-                    </div>
-                    <div class="kartu-partner">
-                        <img src="../assets/img/invectus.jpg"/>
+                        <img src="../assets/img/pandawa.jpg">
                     </div>
                   </div> <br>
                   <h2 class="deskripsi">SCHOOL</h2> <br>

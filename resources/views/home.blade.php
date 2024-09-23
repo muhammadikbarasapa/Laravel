@@ -1,7 +1,6 @@
  @extends('master')
  @section('kontak')
  
- 
  <!--untuk home-->
  <section id="home">
             <img src="../assets/img/invectus.jpg"/>
