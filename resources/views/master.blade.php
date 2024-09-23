@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DICODING</title>
+    <title>Laravel</title>
     <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>  
@@ -22,10 +22,6 @@
        @yield('kontak')
     </main>
             <footer id="contact">
-                <div class="kartu-partner">
-                    <h3>programmer</h3>
-                    <p>Seorang programmer mengembangkan kode sumber komputer menggunakan berbagai bahasa pemrograman, seperti Java, C++, Python, JavaScript, dan banyak lagi. Mereka merancang algoritma dan struktur data untuk menyelesaikan masalah atau menciptakan solusi perangkat lunak.</p>
-                </div>
                 <div class="kartu-partner">
                     <h3>About</h3>
                     <p>salah satu cabang olahraga yang sangat terkenal di Indonesia dan dunia. </p>

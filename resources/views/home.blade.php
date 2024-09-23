@@ -6,10 +6,10 @@
  <section id="home">
             <img src="../assets/img/invectus.jpg"/>
             <div class="kolom">
-                <p class="deskripsi">belajar programmer</p>
+                <p class="deskripsi">berolahraga membuat badan menjadi sehat</p>
                 <h2>tetap sehat,tetap semangat</h2>
                 <p></p>
-                <p><a href="../assets/img/2024.jpg"class="tbl-pink">pelajari lebih lanjut</a></p>
+                <p><a href="https://id.wikipedia.org/wiki/Bulu_tangkis"class="tbl-pink ">pelajari lebih lanjut</a></p>
             </div>
         </section>
         <!--untuk coures-->

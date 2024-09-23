@@ -17,17 +17,10 @@ nav{
     font-size: 20px;
     width: 1100px;
     margin: auto;
+    border-radius: 50px;
     position: relative;
-    color:gold  ;
+    color:rgb(175, 2, 2)  ;
 }
-
-/* .logo a {
-    font-size: 20px;
-    font-weight: bold;
-    float: left;
-    font-family: courier;
-    color:#021c39;
-} */
 
 .menu {
     float: right;
@@ -251,6 +244,7 @@ h3 {
 img{
     width: 450px;
     height: 350px;
+    border-radius: 10px;
 }
 html{
     scroll-behavior:smooth;
